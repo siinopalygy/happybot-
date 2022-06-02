@@ -18,31 +18,31 @@ zenz: 'https://zenzapis.xyz',
 //—————「 Website Apikey 」—————//
 global.APIKeys = {
 //gausah di apa² in, udah free apikey :)
-'https://zenzapis.xyz': 'BagasGanz',
+'https://zenzapis.xyz': 'BagasPrdn',
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['6285714357376','6281575886399','6281575886399'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['6285714357376'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['6285714357376'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.ownernomer = '6285714357376' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'siinopalygy' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'siinopalygy' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = 'siinopalygy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '༄𝑺𝒊 𝑵𝒐𝒑𝒂𝒍 𝒀𝒈𝒚•ོ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '༄𝑺𝒊 𝑵𝒐𝒑𝒂𝒍 𝒀𝒈𝒚•ོ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '༄𝑺𝒊 𝑵𝒐𝒑𝒂𝒍 𝒀𝒈𝒚•ོ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UCtM-pDaaGVRe4BJ7w4qE4Bw'
 global.ig = 'https://instagram.com/siinopalygy'
 global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
+global.myweb = 'https://s.id/RiyAPIs'
 global.email = 'riychdwaynee@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '༄siinopalygy•ོ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = '༄siinopalygy•ོ' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '༄𝑺𝒊 𝑵𝒐𝒑𝒂𝒍 𝒀𝒈𝒚•ོ' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = '༄𝑺𝒊 𝑵𝒐𝒑𝒂𝒍 𝒀𝒈𝒚•ོ' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
@@ -58,11 +58,11 @@ free: 15,
 //—————「 Set Image 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
 global.thumb = fs.readFileSync('./image/chika.jpg')
-/*global.veloriy = fs.readFileSync('./image/chika.mp4')*/
+global.veloriy = fs.readFileSync('./image/chika.mp4')
 
 //—————「 Set Image Welcome 」—————//
 //terserah mau ubah apa nggak, menurut gua jangan di ubah!
-global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
+global.BgWelcLeav = 'https://pin.it/5qvU4Z0.jpg'
 
 //—————「 Set Random Image Menu 」—————//
 //gausah di apa² in!
